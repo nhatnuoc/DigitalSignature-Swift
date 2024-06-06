@@ -1,0 +1,6 @@
+framework module DigitalSignature {
+  umbrella header "DigitalSignature-umbrella.h"
+
+  export *
+  module * { export * }
+}

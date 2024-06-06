@@ -1,0 +1,22 @@
+{
+  "name": "DigitalSignature",
+  "version": "0.1.0",
+  "summary": "A short description of DigitalSignature.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Nguyễn Thanh Bình/DigitalSignature",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Nguyễn Thanh Bình": "binhnt77@fpt.com"
+  },
+  "source": {
+    "git": "https://github.com/Nguyễn Thanh Bình/DigitalSignature.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "DigitalSignature/Classes/**/*"
+}

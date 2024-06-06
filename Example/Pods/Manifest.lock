@@ -1,0 +1,16 @@
+PODS:
+  - DigitalSignature (0.1.0)
+
+DEPENDENCIES:
+  - DigitalSignature (from `../`)
+
+EXTERNAL SOURCES:
+  DigitalSignature:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DigitalSignature: 2c2bee3abbbc9903bd96f601e8c761d45069b234
+
+PODFILE CHECKSUM: e6302f715347ae29cf2f7a1d58cf1677978f7f2e
+
+COCOAPODS: 1.13.0
