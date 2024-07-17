@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+  A custom view for user draw signature and get signature of user image. Use it when you want to create a view that allows user draw their signature.
                        DESC
 
   s.homepage         = 'https://github.com/nhatnuoc/DigitalSignature-Swift.git'
@@ -39,4 +39,5 @@ TODO: Add long description of the pod here.
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
+  s.swift_versions = '5.1'
 end
